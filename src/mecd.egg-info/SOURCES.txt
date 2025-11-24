@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/mecd/__init__.py
+src/mecd/config.py
+src/mecd/mecd_core.py
+src/mecd/mecd_ecdisp.py
+src/mecd/mecd_ewma.py
+src/mecd/mecd_signal.py
+src/mecd/utils.py
+src/mecd.egg-info/PKG-INFO
+src/mecd.egg-info/SOURCES.txt
+src/mecd.egg-info/dependency_links.txt
+src/mecd.egg-info/top_level.txt
+tests/test_ecdisp.py
+tests/test_ewma.py
+tests/test_mecd_signal.py

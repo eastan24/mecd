@@ -24,3 +24,4 @@ mecd-project/
 ├── notebooks/         # optional research notebooks
 ├── data/              # sample data locations
 └── pyproject.toml     # dependencies and project metadata
+
